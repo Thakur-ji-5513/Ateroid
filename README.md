@@ -7,6 +7,11 @@ Hey people! 👋, so i built this asteroid game to practice OOP concept in pytho
 - Detects collision (player and asteroi) based on the distance anf the radius of two objects.
 - used pygame for deep internal logic.
 
+## Sample image:
+
+![Sample image](./SS/image.png)
+
+
 ## Goals:
 - To showcase my progress. 💻
 - To Practice contained concept of coding.
